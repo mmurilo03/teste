@@ -14,3 +14,7 @@
 ## Erro pois o método tem retorno do tipo into mas está retornando do tipo boolean
 ![image](https://user-images.githubusercontent.com/105663942/199370217-71f3f78c-2a83-46e2-83f6-9fedeacaba4a.png)
 ## Erro pois o método não tem retorno pois foi criado com void mas está retornando valores
+
+# BMExercicio09
+![image](https://user-images.githubusercontent.com/105663942/199370651-fdfa1fb7-7323-48d9-904d-1a3dab2c054d.png)
+## O main da classe foi criado de forma errada
