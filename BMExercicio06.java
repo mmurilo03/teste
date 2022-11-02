@@ -1,4 +1,4 @@
-class BMExercicio06{
+public class BMExercicio06{
     String nomeDoCorrentista;
     double saldo;
     boolean contaEspecial;
